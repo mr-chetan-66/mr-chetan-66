@@ -74,17 +74,8 @@ I am an enthusiastic software developer focused on Kotlin, Java, data structures
 
 <div align="center">
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=mr-chetan-66&show_icons=true&theme=radical&hide_border=true&rank_icon=github&bg_color=00000000"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=mr-chetan-66&show_icons=true&theme=buefy&hide_border=true&rank_icon=github&bg_color=00000000"
-    media="(prefers-color-scheme: light)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=mr-chetan-66&show_icons=true&theme=radical&hide_border=true&rank_icon=github&bg_color=00000000" alt="Chetan's GitHub stats" />
-</picture>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mr-chetan-66&theme=radical" alt="Chetan's GitHub stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mr-chetan-66&theme=radical" alt="Repositories per language" />
 
 <picture>
   <source
@@ -114,7 +105,7 @@ I am an enthusiastic software developer focused on Kotlin, Java, data structures
 
 <br />
 
-<img src="https://github-profile-trophy.vercel.app/?username=mr-chetan-66&theme=radical&no-frame=true&row=1&column=6&margin-w=12" alt="GitHub trophies" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mr-chetan-66&theme=radical" alt="Most committed languages" />
 
 </div>
 
@@ -125,38 +116,69 @@ I am an enthusiastic software developer focused on Kotlin, Java, data structures
 <table>
   <tr>
     <td width="50%">
-      <h3><a href="https://github.com/mr-chetan-66/DSAinJava">DSAinJava</a></h3>
+      <a href="https://github.com/mr-chetan-66/DSAinJava">
+        <img src="https://img.shields.io/badge/DSAinJava-Java%20%2B%20DSA-EC4899?style=for-the-badge&logo=openjdk&logoColor=white" alt="DSAinJava" />
+      </a>
       <p>Java implementations of fundamental data structures and algorithms for interview prep, coding practice, and deeper problem-solving.</p>
-      <p><strong>Stack:</strong> Java, DSA</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-050816?style=flat-square&logo=openjdk&logoColor=EC4899" alt="Java" />
+        <img src="https://img.shields.io/badge/DSA-050816?style=flat-square&logo=leetcode&logoColor=F97316" alt="DSA" />
+      </p>
     </td>
     <td width="50%">
-      <h3><a href="https://github.com/mr-chetan-66/DECAID">DECAID</a></h3>
+      <a href="https://github.com/mr-chetan-66/DECAID">
+        <img src="https://img.shields.io/badge/DECAID-Decentralized%20Identity-06B6D4?style=for-the-badge&logo=javascript&logoColor=white" alt="DECAID" />
+      </a>
       <p>Decentralized Academic Identity and Credential Risk Assessment System.</p>
-      <p><strong>Stack:</strong> JavaScript, identity systems</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-050816?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/Identity%20Systems-050816?style=flat-square&logo=webauthn&logoColor=06B6D4" alt="Identity systems" />
+      </p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3><a href="https://github.com/mr-chetan-66/Automated-Medicine-Dispenser-AMDs-">Automated Medicine Dispenser</a></h3>
+      <a href="https://github.com/mr-chetan-66/Automated-Medicine-Dispenser-AMDs-">
+        <img src="https://img.shields.io/badge/Medicine%20Dispenser-Kotlin%20%2B%20IoT-22C55E?style=for-the-badge&logo=kotlin&logoColor=white" alt="Automated Medicine Dispenser" />
+      </a>
       <p>Smart IoT-based automated medicine dispenser built around healthcare reminders and practical device automation.</p>
-      <p><strong>Stack:</strong> Kotlin, IoT, Android</p>
+      <p>
+        <img src="https://img.shields.io/badge/Kotlin-050816?style=flat-square&logo=kotlin&logoColor=A855F7" alt="Kotlin" />
+        <img src="https://img.shields.io/badge/Android-050816?style=flat-square&logo=android&logoColor=22C55E" alt="Android" />
+        <img src="https://img.shields.io/badge/IoT-050816?style=flat-square&logo=arduino&logoColor=06B6D4" alt="IoT" />
+      </p>
     </td>
     <td width="50%">
-      <h3><a href="https://github.com/mr-chetan-66/HR_Employee_Mgmt_Portal">HR Employee Management Portal</a></h3>
+      <a href="https://github.com/mr-chetan-66/HR_Employee_Mgmt_Portal">
+        <img src="https://img.shields.io/badge/HR%20Portal-Java%20Application-F97316?style=for-the-badge&logo=openjdk&logoColor=white" alt="HR Employee Management Portal" />
+      </a>
       <p>Employee management tool developed during the Hewlett Packard Enterprise course on the Forage platform.</p>
-      <p><strong>Stack:</strong> Java</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-050816?style=flat-square&logo=openjdk&logoColor=F97316" alt="Java" />
+        <img src="https://img.shields.io/badge/Portal-050816?style=flat-square&logo=github&logoColor=EC4899" alt="Portal" />
+      </p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3><a href="https://github.com/mr-chetan-66/FastAPI">FastAPI</a></h3>
+      <a href="https://github.com/mr-chetan-66/FastAPI">
+        <img src="https://img.shields.io/badge/FastAPI-Python%20Backend-22C55E?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+      </a>
       <p>FastAPI project and notes from Capgemini learning, focused on backend fundamentals and API development.</p>
-      <p><strong>Stack:</strong> Python, FastAPI</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-050816?style=flat-square&logo=python&logoColor=06B6D4" alt="Python" />
+        <img src="https://img.shields.io/badge/FastAPI-050816?style=flat-square&logo=fastapi&logoColor=22C55E" alt="FastAPI" />
+      </p>
     </td>
     <td width="50%">
-      <h3><a href="https://github.com/mr-chetan-66/Todo_With_WhatsApp_Integration">Todo With WhatsApp Integration</a></h3>
+      <a href="https://github.com/mr-chetan-66/Todo_With_WhatsApp_Integration">
+        <img src="https://img.shields.io/badge/Todo%20%2B%20WhatsApp-JavaScript-06B6D4?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Todo With WhatsApp Integration" />
+      </a>
       <p>Todo list web application with WhatsApp integration for a more practical daily workflow.</p>
-      <p><strong>Stack:</strong> JavaScript</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-050816?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/Workflow-050816?style=flat-square&logo=whatsapp&logoColor=22C55E" alt="Workflow" />
+      </p>
     </td>
   </tr>
 </table>
@@ -165,22 +187,12 @@ I am an enthusiastic software developer focused on Kotlin, Java, data structures
 
 ## Repository Highlights
 
-<div align="center">
-
-<a href="https://github.com/mr-chetan-66/DSAinJava">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mr-chetan-66&repo=DSAinJava&theme=radical&hide_border=true&bg_color=00000000" alt="DSAinJava repository card" />
-</a>
-<a href="https://github.com/mr-chetan-66/DECAID">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mr-chetan-66&repo=DECAID&theme=radical&hide_border=true&bg_color=00000000" alt="DECAID repository card" />
-</a>
-<a href="https://github.com/mr-chetan-66/Automated-Medicine-Dispenser-AMDs-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mr-chetan-66&repo=Automated-Medicine-Dispenser-AMDs-&theme=radical&hide_border=true&bg_color=00000000" alt="Automated Medicine Dispenser repository card" />
-</a>
-<a href="https://github.com/mr-chetan-66/HR_Employee_Mgmt_Portal">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mr-chetan-66&repo=HR_Employee_Mgmt_Portal&theme=radical&hide_border=true&bg_color=00000000" alt="HR Employee Management Portal repository card" />
-</a>
-
-</div>
+| Repository | Focus | Palette |
+| --- | --- | --- |
+| <a href="https://github.com/mr-chetan-66/DSAinJava"><img src="https://img.shields.io/badge/DSAinJava-EC4899?style=flat-square&logo=openjdk&logoColor=white" alt="DSAinJava" /></a> | Java data structures and algorithms reference | `#EC4899` `#F97316` |
+| <a href="https://github.com/mr-chetan-66/DECAID"><img src="https://img.shields.io/badge/DECAID-06B6D4?style=flat-square&logo=javascript&logoColor=white" alt="DECAID" /></a> | Decentralized academic identity and credential risk assessment | `#06B6D4` `#22C55E` |
+| <a href="https://github.com/mr-chetan-66/Automated-Medicine-Dispenser-AMDs-"><img src="https://img.shields.io/badge/Medicine%20Dispenser-22C55E?style=flat-square&logo=kotlin&logoColor=white" alt="Medicine Dispenser" /></a> | Kotlin, IoT, Android healthcare reminder workflow | `#22C55E` `#A855F7` |
+| <a href="https://github.com/mr-chetan-66/HR_Employee_Mgmt_Portal"><img src="https://img.shields.io/badge/HR%20Portal-F97316?style=flat-square&logo=openjdk&logoColor=white" alt="HR Portal" /></a> | Java employee management portal | `#F97316` `#EC4899` |
 
 ---
 
@@ -215,6 +227,18 @@ Data Structures      -> cleaner problem solving and interview readiness
 Backend APIs         -> FastAPI and service design fundamentals
 Android Projects     -> practical mobile utilities
 System Design        -> scalable architecture thinking
+```
+
+---
+
+## Chetan Signature
+
+```txt
+  CCCCC   H   H  EEEEE  TTTTT   AAAAA   N   N
+ C        H   H  E        T    A     A  NN  N
+ C        HHHHH  EEEE     T    AAAAAAA  N N N
+ C        H   H  E        T    A     A  N  NN
+  CCCCC   H   H  EEEEE    T    A     A  N   N
 ```
 
 <div align="center">
