@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:050816,24:7C2D5B,52:EC4899,76:06B6D4,100:22C55E&text=Chetan%20Awari&fontColor=FFFFFF&fontSize=64&fontAlignY=34&desc=AWS%20Developer%20%7C%20Java%20%7C%20Python%20%7C%20FastAPI%20%7C%20Backend%20%7C%20DSA&descSize=20&descAlignY=58&animation=twinkling" alt="Chetan Awari dynamic developer banner" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2200&pause=650&color=F472B6&center=true&vCenter=true&width=1040&lines=AWS+Developer+%7C+Java+%7C+Python+%7C+FastAPI+%7C+Backend+%7C+DSA;React+%7C+Node.js+%7C+Express+%7C+PostgreSQL+%7C+Docker;Kotlin+%7C+Jetpack+Compose+%7C+Firebase+%7C+Android;Building+practical+software+and+production-ready+APIs)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2200&pause=650&color=F472B6&center=true&vCenter=true&width=1040&lines=Java+%7C+Python+%7C+C+%7C+C%2B%2B+%7C+Kotlin+%7C+JavaScript;AWS+Developer+%7C+FastAPI+%7C+Backend+%7C+DSA;React+%7C+Node.js+%7C+Express+%7C+PostgreSQL+%7C+Docker;Kotlin+%7C+Jetpack+Compose+%7C+Firebase+%7C+Android)](https://git.io/typing-svg)
 
 <a href="https://github.com/mr-chetan-66">
   <img src="https://img.shields.io/badge/GitHub-mr--chetan--66-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
@@ -65,19 +65,14 @@ I am an enthusiastic software developer focused on AWS-backed applications, Java
 <img src="https://img.shields.io/badge/EC2-050816?style=for-the-badge&logo=amazonec2&logoColor=F97316" alt="Amazon EC2" />
 <img src="https://img.shields.io/badge/S3-050816?style=for-the-badge&logo=amazons3&logoColor=22C55E" alt="Amazon S3" />
 <img src="https://img.shields.io/badge/Lambda-050816?style=for-the-badge&logo=awslambda&logoColor=F97316" alt="AWS Lambda" />
-<img src="https://img.shields.io/badge/API%20Gateway-050816?style=for-the-badge&logo=amazonapigateway&logoColor=06B6D4" alt="Amazon API Gateway" />
 <img src="https://img.shields.io/badge/RDS-050816?style=for-the-badge&logo=amazonrds&logoColor=06B6D4" alt="Amazon RDS" />
-<img src="https://img.shields.io/badge/DynamoDB-050816?style=for-the-badge&logo=amazondynamodb&logoColor=06B6D4" alt="Amazon DynamoDB" />
 <img src="https://img.shields.io/badge/IAM-050816?style=for-the-badge&logo=amazoniam&logoColor=EC4899" alt="AWS IAM" />
-<img src="https://img.shields.io/badge/VPC-050816?style=for-the-badge&logo=amazonaws&logoColor=A855F7" alt="Amazon VPC" />
 <img src="https://img.shields.io/badge/CloudWatch-050816?style=for-the-badge&logo=amazoncloudwatch&logoColor=22C55E" alt="Amazon CloudWatch" />
-<img src="https://img.shields.io/badge/SQS-050816?style=for-the-badge&logo=amazonsqs&logoColor=F97316" alt="Amazon SQS" />
-<img src="https://img.shields.io/badge/SNS-050816?style=for-the-badge&logo=amazonsns&logoColor=EC4899" alt="Amazon SNS" />
+<img src="https://img.shields.io/badge/CloudTrail-050816?style=for-the-badge&logo=amazonaws&logoColor=06B6D4" alt="AWS CloudTrail" />
 <img src="https://img.shields.io/badge/ECR-050816?style=for-the-badge&logo=amazonecr&logoColor=F97316" alt="Amazon ECR" />
 <img src="https://img.shields.io/badge/ECS-050816?style=for-the-badge&logo=amazonecs&logoColor=06B6D4" alt="Amazon ECS" />
 <img src="https://img.shields.io/badge/EKS-050816?style=for-the-badge&logo=amazoneks&logoColor=EC4899" alt="Amazon EKS" />
 <img src="https://img.shields.io/badge/Glue-050816?style=for-the-badge&logo=amazonaws&logoColor=22C55E" alt="AWS Glue" />
-<img src="https://img.shields.io/badge/CloudFormation-050816?style=for-the-badge&logo=amazonaws&logoColor=A855F7" alt="AWS CloudFormation" />
 
 <br />
 
@@ -284,7 +279,7 @@ I am an enthusiastic software developer focused on AWS-backed applications, Java
 ## Engineering Focus
 
 ```txt
-AWS Cloud           -> EC2, S3, Lambda, API Gateway, RDS, IAM, VPC, ECS, EKS, Glue
+AWS Cloud           -> EC2, S3, Lambda, RDS, IAM, CloudWatch, CloudTrail, ECS, EKS, Glue
 Java + Python       -> backend services, clean architecture, and production-ready APIs
 Android Projects    -> Kotlin, Jetpack Compose, Firebase, MVVM, and practical mobile utilities
 Data Structures     -> 350+ problems, cleaner logic, and interview readiness
@@ -296,13 +291,17 @@ Core CS             -> OOP, Operating Systems, DBMS, and Computer Networks
 
 ## Chetan Signature
 
-```txt
-  CCCCC   H   H  EEEEE  TTTTT   AAAAA   N   N       AAAAA  W   W   AAAAA  RRRR   IIIII
- C        H   H  E        T    A     A  NN  N      A     A W   W  A     A R   R    I
- C        HHHHH  EEEE     T    AAAAAAA  N N N      AAAAAAA W W W  AAAAAAA RRRR     I
- C        H   H  E        T    A     A  N  NN      A     A W W W  A     A R  R     I
-  CCCCC   H   H  EEEEE    T    A     A  N   N      A     A  W W   A     A R   R  IIIII
-```
+<div align="center">
+
+<pre>
+  CCCCC   H   H  EEEEE  TTTTT   AAAAA   N   N
+ C        H   H  E        T    A     A  NN  N
+ C        HHHHH  EEEE     T    AAAAAAA  N N N
+ C        H   H  E        T    A     A  N  NN
+  CCCCC   H   H  EEEEE    T    A     A  N   N
+</pre>
+
+</div>
 
 <div align="center">
 
