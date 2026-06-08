@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="./assets/glass-hero.svg" alt="Chetan Awari - Software Developer glassmorphism banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050816,28:7C2D5B,55:EC4899,78:06B6D4,100:22C55E&text=Chetan%20Awari&fontColor=FFFFFF&fontSize=56&fontAlignY=36&desc=Java%20%7C%20Python%20%7C%20FastAPI%20%7C%20Backend%20%7C%20DSA%20Developer&descSize=18&descAlignY=58&animation=twinkling" alt="Chetan Awari dynamic developer banner" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2400&pause=700&color=F472B6&center=true&vCenter=true&width=900&lines=Kotlin+and+Java+developer;Backend%2C+Android%2C+DSA%2C+and+product-minded+engineering;Building+practical+software+with+clean+logic;Open+to+software+development+opportunities)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2200&pause=650&color=F472B6&center=true&vCenter=true&width=980&lines=Java+%7C+Python+%7C+FastAPI+%7C+Backend+%7C+DSA+Developer;Kotlin+and+Android+projects+with+clean+logic;Building+practical+software+and+production-ready+APIs;Open+to+software+developer+roles+and+collaboration)](https://git.io/typing-svg)
 
 <a href="https://github.com/mr-chetan-66">
   <img src="https://img.shields.io/badge/GitHub-mr--chetan--66-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
@@ -17,16 +17,28 @@
 
 ---
 
+<div align="center">
+
+<img src="https://img.shields.io/badge/Java-Glass%20Core-EC4899?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/Python-API%20Logic-06B6D4?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/FastAPI-Backend-22C55E?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/DSA-Problem%20Solving-F97316?style=for-the-badge&logo=leetcode&logoColor=white" alt="DSA" />
+<img src="https://img.shields.io/badge/Kotlin-Android%20Apps-A855F7?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin and Android" />
+
+</div>
+
+---
+
 ## About Me
 
 I am an enthusiastic software developer focused on Kotlin, Java, data structures, and building practical applications that solve real problems. I like turning rough ideas into working products, from Android utilities and Java portals to backend experiments and decentralized identity systems.
 
-| Now | Strengths | Open To |
-| --- | --- | --- |
-| Backend APIs, Android development, system design, and production-ready Java/Kotlin engineering | Java, Kotlin, DSA, JavaScript, Python, FastAPI basics, and full-stack project structure | Software developer roles, internships, collaborations, and project reviews |
-
 <div align="center">
-  <img src="./assets/glass-focus.svg" alt="Chetan Awari engineering focus cards" width="100%" />
+
+| Backend Mindset | Problem Solving | App Development |
+| --- | --- | --- |
+| FastAPI, service design, clean routes, and API fundamentals | DSA, Java practice, interview patterns, and readable logic | Kotlin, Android utilities, Java portals, and practical product workflows |
+
 </div>
 
 ---
@@ -37,15 +49,22 @@ I am an enthusiastic software developer focused on Kotlin, Java, data structures
 
 ### Core Languages
 
-[![Core Skills](https://skillicons.dev/icons?i=java,kotlin,js,python,html,css&theme=dark)](https://skillicons.dev)
+[![Core Skills](https://skillicons.dev/icons?i=java,python,kotlin,js,html,css&theme=dark)](https://skillicons.dev)
 
-### Backend, Tools, and Platforms
+### Backend and Product Tools
 
 [![Tools](https://skillicons.dev/icons?i=fastapi,nodejs,git,github,githubactions,vscode,androidstudio,figma&theme=dark)](https://skillicons.dev)
 
 ### Currently Leveling Up
 
 [![Learning](https://skillicons.dev/icons?i=react,tailwind,mysql,firebase,docker,linux&theme=dark)](https://skillicons.dev)
+
+<br />
+
+<img src="https://img.shields.io/badge/Backend%20Developer-050816?style=flat-square&logo=serverless&logoColor=06B6D4" alt="Backend developer" />
+<img src="https://img.shields.io/badge/DSA%20Developer-050816?style=flat-square&logo=codeforces&logoColor=F97316" alt="DSA developer" />
+<img src="https://img.shields.io/badge/API%20Builder-050816?style=flat-square&logo=fastapi&logoColor=22C55E" alt="API builder" />
+<img src="https://img.shields.io/badge/Java%20Engineer-050816?style=flat-square&logo=openjdk&logoColor=EC4899" alt="Java engineer" />
 
 </div>
 
