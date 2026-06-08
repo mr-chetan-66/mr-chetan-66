@@ -42,15 +42,14 @@
       <stop offset="1" stop-color="#020617" stop-opacity=".94"/>
     </linearGradient>
   </defs>
-  <rect width="1200" height="330" fill="url(#bg)"/>
-  <path opacity=".18" d="M0 0H1200V330H0Z" fill="#FFFFFF"/>
-  <path opacity=".12" d="M-60 58C125 18 302 28 484 62C671 97 828 72 1024 31C1122 11 1215 6 1260 17V0H-60V58Z" fill="#FFFFFF"/>
+  <rect width="1200" height="330" fill="#0D1117"/>
+  <path fill="url(#bg)" opacity=".46">
+    <animate attributeName="d" dur="8s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcMode="spline" keySplines=".2 0 .2 1;.2 0 .2 1;.2 0 .2 1" values="M0 0L0 236Q300 283 600 248T1200 277L1200 0Z;M0 0L0 265Q300 283 600 259T1200 248L1200 0Z;M0 0L0 289Q300 253 600 289T1200 248L1200 0Z;M0 0L0 236Q300 283 600 248T1200 277L1200 0Z"/>
+  </path>
+  <path fill="url(#bg)" opacity=".46">
+    <animate attributeName="d" dur="8s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcMode="spline" keySplines=".2 0 .2 1;.2 0 .2 1;.2 0 .2 1" begin="-4s" values="M0 0L0 253Q300 306 600 271T1200 283L1200 0Z;M0 0L0 271Q300 236 600 236T1200 259L1200 0Z;M0 0L0 265Q300 242 600 271T1200 289L1200 0Z;M0 0L0 253Q300 306 600 271T1200 283L1200 0Z"/>
+  </path>
+  <path opacity=".1" d="M-60 58C125 18 302 28 484 62C671 97 828 72 1024 31C1122 11 1215 6 1260 17V0H-60V58Z" fill="#FFFFFF"/>
   <text class="name" x="600" y="144" text-anchor="middle" fill="#FFFFFF" font-size="78">Chetan Awari</text>
   <text class="tagline" x="600" y="219" text-anchor="middle" fill="#FFFFFF" font-size="32">Adaptability is my core strength.</text>
-  <path fill="url(#wave)" opacity=".58">
-    <animate attributeName="d" dur="8s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcMode="spline" keySplines=".2 0 .2 1;.2 0 .2 1;.2 0 .2 1" values="M0 236Q300 283 600 248T1200 277V330H0Z;M0 265Q300 283 600 259T1200 248V330H0Z;M0 289Q300 253 600 289T1200 248V330H0Z;M0 236Q300 283 600 248T1200 277V330H0Z"/>
-  </path>
-  <path fill="#020617" opacity=".82">
-    <animate attributeName="d" dur="6.5s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcMode="spline" keySplines=".2 0 .2 1;.2 0 .2 1;.2 0 .2 1" values="M0 286Q300 318 600 294T1200 312V330H0Z;M0 307Q300 316 600 302T1200 291V330H0Z;M0 314Q300 294 600 318T1200 292V330H0Z;M0 286Q300 318 600 294T1200 312V330H0Z"/>
-  </path>
 </svg>
