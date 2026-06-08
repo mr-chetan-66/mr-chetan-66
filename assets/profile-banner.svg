@@ -47,10 +47,10 @@
   <path opacity=".12" d="M-60 58C125 18 302 28 484 62C671 97 828 72 1024 31C1122 11 1215 6 1260 17V0H-60V58Z" fill="#FFFFFF"/>
   <text class="name" x="600" y="144" text-anchor="middle" fill="#FFFFFF" font-size="78">Chetan Awari</text>
   <text class="tagline" x="600" y="219" text-anchor="middle" fill="#FFFFFF" font-size="32">Adaptability is my core strength.</text>
-  <path fill="url(#wave)" opacity=".7">
-    <animate attributeName="d" dur="9s" repeatCount="indefinite" keyTimes="0;0.5;1" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1" values="M0 286C160 268 310 278 468 268C648 257 785 239 967 253C1087 262 1160 284 1200 294V330H0V286Z;M0 294C158 257 318 250 493 260C654 270 768 287 951 270C1079 259 1156 242 1200 248V330H0V294Z;M0 286C160 268 310 278 468 268C648 257 785 239 967 253C1087 262 1160 284 1200 294V330H0V286Z"/>
+  <path fill="url(#wave)" opacity=".58">
+    <animate attributeName="d" dur="8s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcMode="spline" keySplines=".2 0 .2 1;.2 0 .2 1;.2 0 .2 1" values="M0 236Q300 283 600 248T1200 277V330H0Z;M0 265Q300 283 600 259T1200 248V330H0Z;M0 289Q300 253 600 289T1200 248V330H0Z;M0 236Q300 283 600 248T1200 277V330H0Z"/>
   </path>
-  <path fill="#020617" opacity=".72">
-    <animate attributeName="d" dur="7s" repeatCount="indefinite" keyTimes="0;0.5;1" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1" values="M0 304C180 280 315 302 484 293C658 284 768 272 956 288C1068 297 1154 306 1200 306V330H0V304Z;M0 310C176 294 316 286 492 294C657 302 789 313 951 297C1066 286 1145 281 1200 289V330H0V310Z;M0 304C180 280 315 302 484 293C658 284 768 272 956 288C1068 297 1154 306 1200 306V330H0V304Z"/>
+  <path fill="#020617" opacity=".82">
+    <animate attributeName="d" dur="6.5s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcMode="spline" keySplines=".2 0 .2 1;.2 0 .2 1;.2 0 .2 1" values="M0 286Q300 318 600 294T1200 312V330H0Z;M0 307Q300 316 600 302T1200 291V330H0Z;M0 314Q300 294 600 318T1200 292V330H0Z;M0 286Q300 318 600 294T1200 312V330H0Z"/>
   </path>
 </svg>

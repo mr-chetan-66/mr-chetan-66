@@ -2,7 +2,7 @@
 
 <img src="./assets/profile-banner.svg" alt="Chetan Awari dynamic developer banner" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=1850&pause=450&color=F472B6&center=true&vCenter=true&width=1040&lines=Building+cloud-ready+software+with+clean+logic;Java+%7C+Python+%7C+C+%7C+C%2B%2B+%7C+Kotlin+%7C+JavaScript;AWS+Developer+%7C+FastAPI+%7C+Backend+%7C+DSA;React+%7C+Node.js+%7C+Express+%7C+PostgreSQL+%7C+Docker;Kotlin+%7C+Jetpack+Compose+%7C+Firebase+%7C+Android)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=1850&pause=450&color=F472B6&center=true&vCenter=true&width=1040&lines=Java+%7C+Python+%7C+C+%7C+C%2B%2B+%7C+Kotlin+%7C+JavaScript;AWS+Developer+%7C+FastAPI+%7C+Backend+%7C+DSA;React+%7C+Node.js+%7C+Express+%7C+PostgreSQL+%7C+Docker;Kotlin+%7C+Jetpack+Compose+%7C+Firebase+%7C+Android)](https://git.io/typing-svg)
 
 <a href="https://github.com/mr-chetan-66">
   <img src="https://img.shields.io/badge/GitHub-mr--chetan--66-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
