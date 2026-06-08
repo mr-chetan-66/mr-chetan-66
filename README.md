@@ -1,17 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,45:0EA5E9,100:22C55E&text=Chetan%20Awari&fontColor=FFFFFF&fontSize=52&fontAlignY=38&desc=Software%20Developer%20%7C%20Kotlin%20%7C%20Java%20%7C%20Data%20Structures&descSize=18&descAlignY=58" alt="Chetan Awari banner" />
+<img src="./assets/glass-hero.svg" alt="Chetan Awari - Software Developer glassmorphism banner" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=700&color=22C55E&center=true&vCenter=true&width=850&lines=Building+practical+software+with+clean+logic;Kotlin+and+Java+developer;Backend%2C+Android%2C+DSA%2C+and+product-minded+engineering;Open+to+software+development+opportunities)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2400&pause=700&color=F472B6&center=true&vCenter=true&width=900&lines=Kotlin+and+Java+developer;Backend%2C+Android%2C+DSA%2C+and+product-minded+engineering;Building+practical+software+with+clean+logic;Open+to+software+development+opportunities)](https://git.io/typing-svg)
 
 <a href="https://github.com/mr-chetan-66">
   <img src="https://img.shields.io/badge/GitHub-mr--chetan--66-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
 </a>
 <a href="https://github.com/mr-chetan-66?tab=repositories">
-  <img src="https://img.shields.io/badge/Public%20Repos-14-0EA5E9?style=for-the-badge&logo=github" alt="Public repositories" />
+  <img src="https://img.shields.io/badge/Public%20Repos-14-06B6D4?style=for-the-badge&logo=github" alt="Public repositories" />
 </a>
-<img src="https://img.shields.io/badge/Location-Nagpur-22C55E?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Nagpur" />
-<img src="https://img.shields.io/badge/Open%20to%20Work-Yes-F97316?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to work" />
+<img src="https://img.shields.io/badge/Nagpur-India-F97316?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Nagpur, India" />
+<img src="https://img.shields.io/badge/Open%20to%20Work-Yes-22C55E?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to work" />
 
 </div>
 
@@ -21,10 +21,13 @@
 
 I am an enthusiastic software developer focused on Kotlin, Java, data structures, and building practical applications that solve real problems. I like turning rough ideas into working products, from Android utilities and Java portals to backend experiments and decentralized identity systems.
 
-- Currently sharpening: backend APIs, Android development, system design, and production-ready Java/Kotlin engineering.
-- Strong areas: Java, Kotlin, DSA, JavaScript, Python, FastAPI basics, and full-stack project structure.
-- Based in: Nagpur, India.
-- Open to: software developer roles, internships, collaborations, and project reviews.
+| Now | Strengths | Open To |
+| --- | --- | --- |
+| Backend APIs, Android development, system design, and production-ready Java/Kotlin engineering | Java, Kotlin, DSA, JavaScript, Python, FastAPI basics, and full-stack project structure | Software developer roles, internships, collaborations, and project reviews |
+
+<div align="center">
+  <img src="./assets/glass-focus.svg" alt="Chetan Awari engineering focus cards" width="100%" />
+</div>
 
 ---
 
@@ -40,7 +43,7 @@ I am an enthusiastic software developer focused on Kotlin, Java, data structures
 
 [![Tools](https://skillicons.dev/icons?i=fastapi,nodejs,git,github,githubactions,vscode,androidstudio,figma&theme=dark)](https://skillicons.dev)
 
-### Learning Path
+### Currently Leveling Up
 
 [![Learning](https://skillicons.dev/icons?i=react,tailwind,mysql,firebase,docker,linux&theme=dark)](https://skillicons.dev)
 
@@ -54,58 +57,46 @@ I am an enthusiastic software developer focused on Kotlin, Java, data structures
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=mr-chetan-66&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
+    srcset="https://github-readme-stats.vercel.app/api?username=mr-chetan-66&show_icons=true&theme=radical&hide_border=true&rank_icon=github&bg_color=00000000"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=mr-chetan-66&show_icons=true&theme=default&hide_border=true&rank_icon=github"
+    srcset="https://github-readme-stats.vercel.app/api?username=mr-chetan-66&show_icons=true&theme=buefy&hide_border=true&rank_icon=github&bg_color=00000000"
     media="(prefers-color-scheme: light)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=mr-chetan-66&show_icons=true&theme=default&hide_border=true&rank_icon=github" alt="Chetan's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mr-chetan-66&show_icons=true&theme=radical&hide_border=true&rank_icon=github&bg_color=00000000" alt="Chetan's GitHub stats" />
 </picture>
 
 <picture>
   <source
-    srcset="https://github-readme-streak-stats.herokuapp.com?user=mr-chetan-66&theme=github-dark-blue&hide_border=true"
+    srcset="https://github-readme-streak-stats.herokuapp.com?user=mr-chetan-66&theme=radical&hide_border=true&background=00000000"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-streak-stats.herokuapp.com?user=mr-chetan-66&theme=default&hide_border=true"
+    srcset="https://github-readme-streak-stats.herokuapp.com?user=mr-chetan-66&theme=buefy&hide_border=true&background=00000000"
     media="(prefers-color-scheme: light)"
   />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mr-chetan-66&theme=default&hide_border=true" alt="Chetan's GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mr-chetan-66&theme=radical&hide_border=true&background=00000000" alt="Chetan's GitHub streak" />
 </picture>
 
 <br />
 
 <picture>
   <source
-    srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mr-chetan-66&theme=github_dark"
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mr-chetan-66&theme=radical"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mr-chetan-66&theme=github"
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mr-chetan-66&theme=vue"
     media="(prefers-color-scheme: light)"
   />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mr-chetan-66&theme=github" alt="Profile summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mr-chetan-66&theme=radical" alt="Profile summary" />
 </picture>
 
 <br />
 
-<img src="https://github-profile-trophy.vercel.app/?username=mr-chetan-66&theme=algolia&no-frame=true&row=1&column=6&margin-w=12" alt="GitHub trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=mr-chetan-66&theme=radical&no-frame=true&row=1&column=6&margin-w=12" alt="GitHub trophies" />
 
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mr-chetan-66/mr-chetan-66/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mr-chetan-66/mr-chetan-66/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/mr-chetan-66/mr-chetan-66/output/github-contribution-grid-snake.svg" />
-  </picture>
 </div>
 
 ---
@@ -128,7 +119,7 @@ I am an enthusiastic software developer focused on Kotlin, Java, data structures
   <tr>
     <td width="50%">
       <h3><a href="https://github.com/mr-chetan-66/Automated-Medicine-Dispenser-AMDs-">Automated Medicine Dispenser</a></h3>
-      <p>Smart IoT-based automated medicine dispenser built around practical healthcare reminders and device automation.</p>
+      <p>Smart IoT-based automated medicine dispenser built around healthcare reminders and practical device automation.</p>
       <p><strong>Stack:</strong> Kotlin, IoT, Android</p>
     </td>
     <td width="50%">
@@ -158,16 +149,16 @@ I am an enthusiastic software developer focused on Kotlin, Java, data structures
 <div align="center">
 
 <a href="https://github.com/mr-chetan-66/DSAinJava">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mr-chetan-66&repo=DSAinJava&theme=github_dark&hide_border=true" alt="DSAinJava repository card" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mr-chetan-66&repo=DSAinJava&theme=radical&hide_border=true&bg_color=00000000" alt="DSAinJava repository card" />
 </a>
 <a href="https://github.com/mr-chetan-66/DECAID">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mr-chetan-66&repo=DECAID&theme=github_dark&hide_border=true" alt="DECAID repository card" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mr-chetan-66&repo=DECAID&theme=radical&hide_border=true&bg_color=00000000" alt="DECAID repository card" />
 </a>
 <a href="https://github.com/mr-chetan-66/Automated-Medicine-Dispenser-AMDs-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mr-chetan-66&repo=Automated-Medicine-Dispenser-AMDs-&theme=github_dark&hide_border=true" alt="Automated Medicine Dispenser repository card" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mr-chetan-66&repo=Automated-Medicine-Dispenser-AMDs-&theme=radical&hide_border=true&bg_color=00000000" alt="Automated Medicine Dispenser repository card" />
 </a>
 <a href="https://github.com/mr-chetan-66/HR_Employee_Mgmt_Portal">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mr-chetan-66&repo=HR_Employee_Mgmt_Portal&theme=github_dark&hide_border=true" alt="HR Employee Management Portal repository card" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mr-chetan-66&repo=HR_Employee_Mgmt_Portal&theme=radical&hide_border=true&bg_color=00000000" alt="HR Employee Management Portal repository card" />
 </a>
 
 </div>
@@ -185,6 +176,18 @@ I am an enthusiastic software developer focused on Kotlin, Java, data structures
 
 ---
 
+## Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mr-chetan-66/mr-chetan-66/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mr-chetan-66/mr-chetan-66/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/mr-chetan-66/mr-chetan-66/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+---
+
 ## Engineering Focus
 
 ```txt
@@ -195,22 +198,10 @@ Android Projects     -> practical mobile utilities
 System Design        -> scalable architecture thinking
 ```
 
----
-
-## Chetan Signature
-
-```txt
-  CCCCC   H   H  EEEEE  TTTTT   AAAAA   N   N
- C        H   H  E        T    A     A  NN  N
- C        HHHHH  EEEE     T    AAAAAAA  N N N
- C        H   H  E        T    A     A  N  NN
-  CCCCC   H   H  EEEEE    T    A     A  N   N
-```
-
 <div align="center">
 
 ### Thanks for visiting.
 
-<img src="https://komarev.com/ghpvc/?username=mr-chetan-66&style=for-the-badge&color=0EA5E9" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=mr-chetan-66&style=for-the-badge&color=EC4899" alt="Profile views" />
 
 </div>
