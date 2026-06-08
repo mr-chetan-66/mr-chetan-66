@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:050816,24:7C2D5B,52:EC4899,76:06B6D4,100:22C55E&text=Chetan%20Awari&fontColor=FFFFFF&fontSize=64&fontAlignY=34&desc=AWS%20Developer%20%7C%20Java%20%7C%20Python%20%7C%20FastAPI%20%7C%20Backend%20%7C%20DSA&descSize=20&descAlignY=58&animation=twinkling" alt="Chetan Awari dynamic developer banner" width="100%" />
+<img src="./assets/profile-banner.svg" alt="Chetan Awari dynamic developer banner" width="100%" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=1850&pause=450&color=F472B6&center=true&vCenter=true&width=1040&lines=Building+cloud-ready+software+with+clean+logic;Java+%7C+Python+%7C+C+%7C+C%2B%2B+%7C+Kotlin+%7C+JavaScript;AWS+Developer+%7C+FastAPI+%7C+Backend+%7C+DSA;React+%7C+Node.js+%7C+Express+%7C+PostgreSQL+%7C+Docker;Kotlin+%7C+Jetpack+Compose+%7C+Firebase+%7C+Android)](https://git.io/typing-svg)
 
